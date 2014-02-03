@@ -48,9 +48,8 @@
     </dependencies>
 
     <scm>
-        <connection>scm:svn:https://www.pyxis-tech.ca/svn/GreenPepperRepos/maven-runner</connection>
-        <developerConnection>scm:svn:https://www.pyxis-tech.ca/svn/GreenPepperRepos/maven-runner/trunk</developerConnection>
-        <url>https://www.pyxis-tech.ca/fisheye/viewrep/GreenPepper/maven-runner</url>
+        <connection>https://github.com/greenpeppersoftware/maven-runner.git</connection>
+        <url>https://github.com/greenpeppersoftware/maven-runner</url>
     </scm>
 
     <build>
